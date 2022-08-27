@@ -1,7 +1,6 @@
 node_modules
 .env
 dist
-temp
-temp/*
+tmp/*
 !tmp/.gitkeep
 .wwebjs_auth
